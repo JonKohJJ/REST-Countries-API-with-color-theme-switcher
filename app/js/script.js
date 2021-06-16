@@ -558,6 +558,9 @@ async function home(){
     // clear input
     searchBar.value = '';
 
+    // reset filter to default
+    document.getElementById("regions").value = '';
+
     allData.then(function (data){
         displayData(data);
     });
