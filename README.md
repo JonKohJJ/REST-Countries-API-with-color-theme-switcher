@@ -5,6 +5,8 @@ Live Site: https://jonkohjj.github.io/REST-Countries-API-with-color-theme-switch
 
 This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
 
+Consume API from: https://restcountries.eu/#rest-countries
+
 Users should be able to:
 
 - See all countries from the API on the homepage
