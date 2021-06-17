@@ -33,3 +33,7 @@ I have learnt how to consume a 3rd-party API and how to manage the state of the 
 ### Continued development
 
 Improving the speed of loading JSON data into the web application.
+
+## Author
+
+- Website - [Jonathan Koh](https://jonathankoh.dev/)
