@@ -24,3 +24,12 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+### What I learned
+
+I have learnt to manage the state of the web application while toggling between light and dark mode. 
+
+
+### Continued development
+
+Improving the speed of loading JSON data into the web application.
