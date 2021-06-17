@@ -27,7 +27,7 @@ Users should be able to:
 
 ### What I learned
 
-I have learnt to manage the state of the web application while toggling between light and dark mode. 
+I have learnt how to consume a 3rd-party API and how to manage the state of the web application while toggling between light and dark mode. 
 
 
 ### Continued development
